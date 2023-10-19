@@ -29,7 +29,7 @@ public class PlanoCartesianoJPanel extends JPanel {
      g.drawLine(0, 220, 623, 220);
     // tracinho vermelho
      g.setColor(Color.RED);
-     g.drawLine(505, 30, 400, 140);
+     g.drawLine(503, 35, 403, 135);
    // i x, i y - f x, f y
       
      g.setColor(Color.BLUE);
